@@ -1,0 +1,4 @@
+VSM
+===
+
+VarianceShadowMapping
